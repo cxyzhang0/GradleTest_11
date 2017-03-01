@@ -1,0 +1,4 @@
+rootProject.name = 'GradleTest_11'
+//include 'M1'
+//findProject(':M1')?.name = '1'
+
