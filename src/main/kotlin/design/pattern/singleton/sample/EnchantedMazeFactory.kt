@@ -1,5 +1,6 @@
 package design.pattern.singleton.sample
 
+import design.pattern.*
 /**
  * Created by Sean on 2/27/2017.
  */

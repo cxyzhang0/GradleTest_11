@@ -1,5 +1,6 @@
 package design.pattern.singleton.sample
 
+import design.pattern.*
 import org.junit.Test
 import org.junit.Assert.*
 

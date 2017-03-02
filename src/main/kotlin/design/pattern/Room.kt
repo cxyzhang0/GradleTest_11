@@ -1,10 +1,10 @@
-package design.pattern.singleton.sample
+package design.pattern
 
 /**
- * Created by Sean on 2/27/2017.
-*/
+ * Created by Sean on 3/1/2017.
+ */
 open class Room(val roomNo: Int): MapSite() {
-//    constructor (roomNo: Int, s0: Int): this(roomNo) { s = s0}
+    //    constructor (roomNo: Int, s0: Int): this(roomNo) { s = s0}
 //    init {s = 1}
     override fun Enter() {}
 

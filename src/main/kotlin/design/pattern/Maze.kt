@@ -1,7 +1,7 @@
-package design.pattern.singleton.sample
+package design.pattern
 
 /**
- * Created by Sean on 2/27/2017.
+ * Created by Sean on 3/1/2017.
  */
 class Maze {
     fun addRoom(room: Room) {
@@ -14,6 +14,6 @@ class Maze {
     fun getRoomByRoomNo(roomNo: Int): Room? {
         return rooms[roomNo] //rooms.find{it.roomNo == roomNo }
     }
-//    private val rooms: MutableList<Room> = mutableListOf()
+    //    private val rooms: MutableList<Room> = mutableListOf()
     private val rooms: MutableMap<Int, Room> = mutableMapOf()
 }

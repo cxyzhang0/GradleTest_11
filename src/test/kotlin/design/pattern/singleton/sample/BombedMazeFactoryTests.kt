@@ -2,6 +2,7 @@ package design.pattern.singleton.sample
 
 import org.junit.Test
 
+import design.pattern.*
 import org.junit.Assert.*
 import org.junit.Before
 /**
