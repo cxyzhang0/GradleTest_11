@@ -6,7 +6,7 @@ package design.pattern
 open class Room(val roomNo: Int): MapSite() {
     //    constructor (roomNo: Int, s0: Int): this(roomNo) { s = s0}
 //    init {s = 1}
-    override fun Enter() {}
+    override fun enter() {}
 
     fun getSite(direction: Direction): MapSite? {
         return _sides[direction]
@@ -37,7 +37,9 @@ class EnchantedRoom(roomNo: Int, castSpell: CastSpell): Room(roomNo)
 
 class CastSpell
 
-class RoomWithABomb(roomNo: Int): Room(roomNo)
+class RoomWithABomb(roomNo: Int): Room(roomNo) {
+    val hasBomb = true
+}
 
 /*
 * This shows a read-only property (val) does not have to have an initializer if it is initialized in the constructor (init for primary constructor)

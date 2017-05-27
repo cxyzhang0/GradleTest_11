@@ -1,4 +1,4 @@
-package design.pattern
+package design.pattern.prototype.sample
 
 /**
  * Created by Sean on 3/1/2017.

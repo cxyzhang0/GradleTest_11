@@ -6,9 +6,9 @@ import design.pattern.*
  * Created by Sean on 2/27/2017.
  * Use class instead of object because it will have subclasses
  * Use open instead of abstract because of its constructor
+ * protected instead of private constructor so that subclass can initialize
+ * we have a singleton for each mazeStyle: default, bombed, and enchanted, lazy loading
  */
-
-//var mazeStyle: String = "enchanted" // "enchanted" "default" "bombed"
 
 open class MazeFactory protected constructor() {
     companion object {

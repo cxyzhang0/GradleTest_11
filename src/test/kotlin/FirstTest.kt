@@ -21,3 +21,16 @@ class MyTest {
     }
 //    fun badFunction(): Nothing = throw Exception("Bad")
 }
+
+class TestStringLiterals {
+    val a = 3
+    @Test fun `literal ok` () {
+        assertEquals("ABC\n123 $'b'\n456 $a",
+                """ABC
+    |123 $'b'
+    |456 $a
+    """.trimMargin()
+        )
+    }
+
+}

@@ -1,8 +1,8 @@
-package design.pattern.singleton.sample
+package design.pattern.abstractfactory.sample
 
 import design.pattern.*
 /**
- * Created by Sean on 2/27/2017.
+ * Created by Sean on 3/2/2017.
  */
 class EnchantedMazeFactory: MazeFactory() {
     override fun makeRoom(roomNo: Int): Room {
