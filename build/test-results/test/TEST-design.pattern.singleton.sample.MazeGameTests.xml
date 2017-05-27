@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="design.pattern.singleton.sample.MazeGameTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-05-27T06:24:47" hostname="DESKTOP-9KQ7U3T" time="0.006">
+  <properties/>
+  <testcase name="default maze ok" classname="design.pattern.singleton.sample.MazeGameTests" time="0.005"/>
+  <testcase name="bombed maze ok" classname="design.pattern.singleton.sample.MazeGameTests" time="0.001"/>
+  <testcase name="enchanted maze ok" classname="design.pattern.singleton.sample.MazeGameTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

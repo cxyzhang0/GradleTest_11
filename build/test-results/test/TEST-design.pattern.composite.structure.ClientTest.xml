@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="design.pattern.composite.structure.ClientTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-05-27T06:24:47" hostname="DESKTOP-9KQ7U3T" time="0.062">
+  <properties/>
+  <testcase name="makeComponent ok" classname="design.pattern.composite.structure.ClientTest" time="0.062"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

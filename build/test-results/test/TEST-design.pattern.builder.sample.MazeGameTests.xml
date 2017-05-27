@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="design.pattern.builder.sample.MazeGameTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-05-27T06:24:46" hostname="DESKTOP-9KQ7U3T" time="0.026">
+  <properties/>
+  <testcase name="createCompleteMaze ok" classname="design.pattern.builder.sample.MazeGameTests" time="0.02"/>
+  <testcase name="createCountingMaze ok" classname="design.pattern.builder.sample.MazeGameTests" time="0.004"/>
+  <testcase name="createMaze ok" classname="design.pattern.builder.sample.MazeGameTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

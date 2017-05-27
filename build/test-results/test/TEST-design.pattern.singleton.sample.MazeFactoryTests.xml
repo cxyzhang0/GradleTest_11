@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="design.pattern.singleton.sample.MazeFactoryTests" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-05-27T06:24:47" hostname="DESKTOP-9KQ7U3T" time="0.004">
+  <properties/>
+  <testcase name="makeWall ok" classname="design.pattern.singleton.sample.MazeFactoryTests" time="0.001"/>
+  <testcase name="makeRoom ok" classname="design.pattern.singleton.sample.MazeFactoryTests" time="0.001"/>
+  <testcase name="makeDoor ok" classname="design.pattern.singleton.sample.MazeFactoryTests" time="0.001"/>
+  <testcase name="makeMaze ok" classname="design.pattern.singleton.sample.MazeFactoryTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

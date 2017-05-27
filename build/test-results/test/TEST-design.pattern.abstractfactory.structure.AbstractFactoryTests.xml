@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="design.pattern.abstractfactory.structure.AbstractFactoryTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-05-27T06:24:46" hostname="DESKTOP-9KQ7U3T" time="0.001">
+  <properties/>
+  <testcase name="createProductA" classname="design.pattern.abstractfactory.structure.AbstractFactoryTests" time="0.0"/>
+  <testcase name="createProductB" classname="design.pattern.abstractfactory.structure.AbstractFactoryTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

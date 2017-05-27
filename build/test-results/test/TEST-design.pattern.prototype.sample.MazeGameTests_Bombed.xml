@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="design.pattern.prototype.sample.MazeGameTests_Bombed" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-05-27T06:24:47" hostname="DESKTOP-9KQ7U3T" time="0.01">
+  <properties/>
+  <testcase name="bombed maze ok" classname="design.pattern.prototype.sample.MazeGameTests_Bombed" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

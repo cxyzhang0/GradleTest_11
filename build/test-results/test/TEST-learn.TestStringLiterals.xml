@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="learn.TestStringLiterals" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-05-27T06:24:47" hostname="DESKTOP-9KQ7U3T" time="0.1">
+  <properties/>
+  <testcase name="literal ok" classname="learn.TestStringLiterals" time="0.1"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
